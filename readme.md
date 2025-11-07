@@ -17,6 +17,12 @@ Install all required dependencies:
 ```
 ./install.sh
 ```
+## Prepare API Key
+
+Place your Gemini API key inside the file `API_KEY.txt`.  
+The program will automatically read the key from this file at runtime.
+
+
 
 # Usage
 Run the translator by specifying the input PDF path and output directory:
